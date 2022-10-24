@@ -21,7 +21,10 @@ app.get('/courses/:page', (req, res) => {
     res.send(sendData);
 })
 
-
+app.get('/course/:id', (req, res) => {
+    const course = data.find(item => (item.id == req.params.id));
+    res.send(course);
+})
 
 app.listen(PORT, () => {
     console.log('node is running on ', PORT);
