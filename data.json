@@ -74,8 +74,8 @@
     },
     {
         "id": 9,
-        "image": "https://i.ibb.co/MZLh72X/10.png",
-        "url": "https://ibb.co/fq7SH1c",
+        "image": "https://i.ibb.co/8Pr1fvt/4.png",
+        "url": "https://ibb.co/QYPyTSt",
         "name": "Python is Easy",
         "cost": 6.99,
        "details": "Learn the fundamentals of Python, and build 3 real projects. We cover Variables, Functions, Statements, Lists, Loops, Sets, Dictionaries."
@@ -127,5 +127,21 @@
         "name": "Kotlin for Java Developers",
         "cost": 10.99,
        "details": "Use your Java skills to learn Kotlin fast. Enhance career prospects and master Kotlin, including Java interoperability"
+    },
+    {
+        "id": 16,
+        "image": "https://i.ibb.co/Thdpts3/16.png",
+        "url": "https://ibb.co/NYbQKMB",
+        "name": "Angular Development",
+        "cost": 14.99,
+       "details": "Angular is a popular web development tool that increases your advantage as a developer."
+    },
+    {
+        "id": 17,
+         "image": "https://i.ibb.co/4P7bJ5j/5.png",
+        "url": "https://ibb.co/ChzjWTn",
+        "name": "Modern Android app architecture",
+        "cost": 8.00,
+       "details": "Start here if you are new to programming or new to Android development. No programming experience needed."
     }
 ]
